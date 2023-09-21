@@ -12,7 +12,7 @@ flask-migrate = "*"
 flask-restful = "*"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
-pytest = "7.2.0"
+pytest = "*"
 
 [dev-packages]
 
